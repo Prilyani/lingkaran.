@@ -155,7 +155,10 @@
    <h3>2. Evaluasi</h3> 
       <h4>- Keliling gelang memiliki diameter 147 cm keliling gelang adalah...</h4>
       <h4>- Diketahui luas lingkaran adalah 2.464 cm persegi. Berapakah jari-jari lingkaran tersebut...</h4>
-
+	   <h5>Nama : Prilyani Hermansyah</h5>
+	   <h5>kelas : 2C</h5>
+	   <h5>NIM : 2225210025</h5>
+	
       
 <style>
 body {background-color: #93B874;}
